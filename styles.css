@@ -58,8 +58,8 @@ section {
 }
 
 .about-container img {
-  width: 12rem;
-  border-radius: 50%;
+  width: 200px;
+  /*border-radius: 50*/;
 }
 
 .projects-grid {
