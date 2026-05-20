@@ -1,9 +1,9 @@
 
 :root {
-  --primary: #2563eb;
-  --bg: #f4f4f4;
-  --text: #222;
-  --white: #ffffff;
+  --primary: blue;
+  --bg: white;
+  --text:black;
+  --white: white
 }
 
 
@@ -97,7 +97,7 @@ section {
 
 
 footer {
-  background: #111;
+  background: black;
   color: white;
   text-align: center;
   padding: 1.5rem;
